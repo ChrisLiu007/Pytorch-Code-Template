@@ -1,4 +1,4 @@
-# This is a sample of deep learning structure in pytorch
+# This is a pytorch template in deep learning
 
 
 ## 1. Introduction
